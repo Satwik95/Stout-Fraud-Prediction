@@ -3,7 +3,7 @@ Fraud prediction model for Stout assessment.
 
 # Algos used: 
 1. Gradient boosting
-2. 2. XGboost
+2. XGboost
 
 ## Dataset: 
 https://www.kaggle.com/ntnu-testimon/paysim1
